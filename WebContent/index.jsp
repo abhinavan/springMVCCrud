@@ -7,12 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="register.html" method="post">
+<form action="register" method="post">
 <p><input type="text" name="name" placeholder="name"></p>
 <p><input type="text" name="course" placeholder="course"></p>
 <p><input type="number" name="roll" placeholder="roll"></p>
 <input type="submit" value="REGISTER"/>
 </form>
-<a href="show.html">Show Entries</a>
+<a href="show">Show Entries</a>
 </body>
 </html>
